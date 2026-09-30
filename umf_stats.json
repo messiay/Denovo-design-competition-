@@ -1,0 +1,16 @@
+{
+  "pdb_size": 1372383,
+  "umf_size": 41624,
+  "compression_ratio": 33.0,
+  "num_residues": 1031,
+  "num_graph_edges": 10576,
+  "coords_shape": [
+    1031,
+    3,
+    3
+  ],
+  "torsions_shape": [
+    1031,
+    7
+  ]
+}
